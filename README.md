@@ -4,6 +4,6 @@ Hierarchical integrative models for the analysis of mRNA and miRNA expression pr
 R code: Hierarchical integrative model.R -- source code for the Hierarchical integrative models
 
 GU datasets:
-- mRNA.csv -- matrix of mRNA data
+- RNA.csv -- matrix of RNA data
 - miRNA.csv -- matrix of miRNA data
 - y.csv -- matrix with sample name, disease status and patient ID
